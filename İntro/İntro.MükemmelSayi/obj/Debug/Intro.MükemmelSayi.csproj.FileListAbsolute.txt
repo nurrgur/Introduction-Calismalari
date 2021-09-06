@@ -1,0 +1,14 @@
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\bin\Debug\İntro.MükemmelSayi.exe.config
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\bin\Debug\İntro.MükemmelSayi.exe
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\bin\Debug\İntro.MükemmelSayi.pdb
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\obj\Debug\Intro.MükemmelSayi.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\obj\Debug\Intro.MükemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\obj\Debug\İntro.MükemmelSayi.exe
+C:\Users\Nur\source\repos\İntro\İntro.MükemmelSayi\obj\Debug\İntro.MükemmelSayi.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\bin\Debug\İntro.MükemmelSayi.exe.config
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\bin\Debug\İntro.MükemmelSayi.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\bin\Debug\İntro.MükemmelSayi.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\obj\Debug\Intro.MükemmelSayi.csproj.AssemblyReference.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\obj\Debug\Intro.MükemmelSayi.csproj.CoreCompileInputs.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\obj\Debug\İntro.MükemmelSayi.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\İntro.MükemmelSayi\obj\Debug\İntro.MükemmelSayi.pdb

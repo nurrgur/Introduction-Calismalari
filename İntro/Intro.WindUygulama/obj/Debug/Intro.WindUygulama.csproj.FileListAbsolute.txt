@@ -1,0 +1,48 @@
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.exe.config
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.exe
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.pdb
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form1.resources
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Properties.Resources.resources
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.exe
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.pdb
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\bin\Debug\Intro.CommonTools.dll
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\bin\Debug\Intro.CommonTools.pdb
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form2.resources
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.CopyComplete
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form3.resources
+C:\Users\Nur\source\repos\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.FrmKisiKaydetme.resources
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.exe.config
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.exe
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.pdb
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\bin\Debug\Intro.CommonTools.dll
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\bin\Debug\Intro.CommonTools.pdb
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.AssemblyReference.cache
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form1.resources
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form2.resources
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form3.resources
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.FrmKisiKaydetme.resources
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Properties.Resources.resources
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.GenerateResource.cache
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.CopyComplete
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.exe
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.exe.config
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\bin\Debug\Intro.WindUygulama.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\bin\Debug\Intro.CommonTools.dll
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\bin\Debug\Intro.CommonTools.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.AssemblyReference.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form1.resources
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form2.resources
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Form3.resources
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.FrmKisiKaydetme.resources
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.Properties.Resources.resources
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.GenerateResource.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.csproj.CopyComplete
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.WindUygulama\obj\Debug\Intro.WindUygulama.pdb

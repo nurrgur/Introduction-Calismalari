@@ -1,0 +1,20 @@
+C:\Users\Nur\source\repos\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.exe.config
+C:\Users\Nur\source\repos\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.exe
+C:\Users\Nur\source\repos\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.pdb
+C:\Users\Nur\source\repos\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.exe
+C:\Users\Nur\source\repos\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.pdb
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.exe.config
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.exe
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.pdb
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.csproj.AssemblyReference.cache
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.exe
+C:\Users\Nur\Desktop\Bilge Adam Projeler\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.exe.config
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\bin\Debug\Intro.AdamAsmaca.pdb
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.csproj.AssemblyReference.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.csproj.CoreCompileInputs.cache
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.exe
+C:\Users\Nur\Desktop\B\Bilge Adam Projeler\Introduction\İntro\Intro.AdamAsmaca\obj\Debug\Intro.AdamAsmaca.pdb
